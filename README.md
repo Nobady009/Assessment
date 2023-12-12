@@ -31,3 +31,7 @@ cp source_path destination_path
 
 To remove a file or directory, you can use the rm command followed by the file or directory name:
 rm file_or_directory
+
+# For run the code 
+simply run the assessment.py in vs code 
+give the .txt file path 
